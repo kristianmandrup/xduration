@@ -1,0 +1,12 @@
+Gemfile.lock
+.DS_Store
+.idea
+.bundle
+*~
+#*
+*.gem
+.yardoc/*
+coverage/*
+doc/*
+pkg/*
+bluecloth/*
